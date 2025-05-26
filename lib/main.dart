@@ -6,6 +6,7 @@ import 'package:get/get.dart';
 import 'data/constant.dart';
 import 'firebase_options.dart';
 import 'view/intro/intro_page.dart';
+import 'admin/hobby_add_page.dart';
 
 // 백그라운드 메시지 핸들러
 @pragma('vm:entry-point')
